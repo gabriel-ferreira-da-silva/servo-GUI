@@ -12,4 +12,4 @@ para iniciar o programa.
 
 
 ## interface
-![interface Tkinter](https://github.com/gabriel-ferreira-da-silva/sasuke-game/blob/master/images/s2.png)
+![interface Tkinter](https://github.com/gabriel-ferreira-da-silva/servo-GUI/blob/master/imagen/interface.png?raw=true)
